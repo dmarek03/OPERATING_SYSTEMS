@@ -1,0 +1,2 @@
+Time elapsed for 1 byte approach: 11.292944
+Time elapsed for 1024 bytes approach : 0.107978
